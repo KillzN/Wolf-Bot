@@ -11,39 +11,39 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['56983073328', '👑 KillzN - Creador 👑', true],
-  ['56983073328', '🥷🏼 KillzN 🥷🏼', true],
-  ['56983073328', '🥷🏼 KillzN 🥷🏼', true],
-  ['56983073328', '🥷🏼 KillzN 🥷🏼', true],
-  ['56983073328', '🥷🏼 KillzN 🥷🏼', true],
-  ['56983073328', '🥷🏼 KillzN 🥷🏼', true],
-  ['56983073328', '🥷🏼 KillzN 🥷🏼', false],
-  ['56983073328', '🥷🏼 KillzN 🥷🏼', true],
-  ['56983073328', '🥷🏼 KillzN 🥷🏼', true],
-  ['56983073328','🥷🏼 KillzN 🥷🏼', true],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'],  
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'], 
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328']
+  ['591699777662', '👑 Lobito - Creador 👑', true],
+  ['591699777662', '🥷🏼 Lobito 🥷🏼', true],
+  ['591699777662', '🥷🏼 Lobito 🥷🏼', true],
+  ['591699777662', '🥷🏼 Lobito 🥷🏼', true],
+  ['591699777662', '🥷🏼 Lobito 🥷🏼', true],
+  ['591699777662', '🥷🏼 Lobito 🥷🏼', true],
+  ['591699777662', '🥷🏼 Lobito 🥷🏼', false],
+  ['591699777662', '🥷🏼 Lobito 🥷🏼', true],
+  ['591699777662', '🥷🏼 Lobito 🥷🏼', true],
+  ['591699777662','🥷🏼 Lobito 🥷🏼', true],
+  ['591699777662'],
+  ['591699777662'],
+  ['591699777662'],
+  ['591699777662'],
+  ['591699777662'], 
+  ['591699777662'],  
+  ['591699777662'],
+  ['591699777662'],
+  ['591699777662'],
+  ['591699777662'], 
+  ['591699777662'], 
+  ['591699777662'],
+  ['591699777662'],
+  ['591699777662'],
+  ['591699777662'], 
+  ['591699777662'],
+  ['591699777662'],
+  ['591699777662'], 
+  ['591699777662']
 ];
 
-global.suittag = ['56983073328'];
-global.prems = ['56983073328'];
+global.suittag = ['591699777662'];
+global.prems = ['591699777662'];
 
 global.packname = 'KɪʟʟᴢN';
 global.author = '@𝖎𝖓𝖊𝖋𝖋𝖆𝖇𝖑𝖊.𝖒𝖛𝖗𝖈𝖔';
@@ -83,7 +83,7 @@ global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*[ ⏳ ] Cargando...*';
 global.waittt = '*[ ⏳ ] Cargando...*';
 global.waitttt = '*[ ⏳ ] Cargando...*';
-global.nomorown = '56983073328';
+global.nomorown = '591699777662';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
